@@ -1,0 +1,4 @@
+1). Node.js is " Asynchronous and Single Threaded Language ".
+2). For running the continuously use -------> nodemon .\file name
+3). Process ---------------> "process" is a big object in node.js.
+
